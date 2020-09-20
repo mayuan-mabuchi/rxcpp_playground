@@ -1,0 +1,5 @@
+add_rxcpp_executable(SchedulerOne scheduler_one.cpp)
+add_rxcpp_executable(SchedulerTwo scheduler_two.cpp)
+add_rxcpp_executable(ObservableOnScheduler observable_on_scheduler.cpp)
+add_rxcpp_executable(SubscribeOnScheduler subscribe_on_scheduler.cpp)
+add_rxcpp_executable(RunLoop run_loop.cpp)

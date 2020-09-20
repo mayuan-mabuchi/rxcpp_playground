@@ -1,0 +1,3 @@
+add_rxcpp_executable(SimpleSubject simple_subject.cpp)
+add_rxcpp_executable(BehaviorSubject behavior_subject.cpp)
+add_rxcpp_executable(ReplaySubject replay_subject.cpp)
