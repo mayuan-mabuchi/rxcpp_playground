@@ -1,7 +1,6 @@
 //
 // Created by mayuan-mabuchi on 9/19/20.
 //
-
 #include <rxcpp/rx.hpp>
 
 int main([[maybe_unused]] int argc, [[maybe_unused]] char *argv[])

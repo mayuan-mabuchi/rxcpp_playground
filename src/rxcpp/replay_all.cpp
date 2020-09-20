@@ -1,8 +1,8 @@
 //
 // Created by Yuan Ma on 9/18/20.
 //
-
 #include <rxcpp/rx.hpp>
+
 int main([[maybe_unused]] int argc, [[maybe_unused]] char *argv[])
 {
   auto values = rxcpp::observable<>::interval(

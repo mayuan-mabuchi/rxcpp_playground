@@ -1,7 +1,6 @@
 //
 // Created by Yuan Ma on 9/19/20.
 //
-
 #include <rxcpp/rx.hpp>
 
 int main()
